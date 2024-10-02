@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: opx;
+}
+
+.cabeca{
+    justify-items: center;
+    height: 85px;
+    background-color: #F80032;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.logo{
+
+}
+
+.asterisco{
+    color: #F80032;
+}
